@@ -1,4 +1,4 @@
-## The official repository for the Scala Advanced course on Udemy
+## This is a fork repository from Rock The JVM's "Advanced Scala course" on Udemy
 
 This repository contains the code we wrote during  [Rock the JVM's Scala Advanced course](https://www.udemy.com/advanced-scala) on Udemy. Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
 
